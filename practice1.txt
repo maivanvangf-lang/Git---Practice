@@ -1,1 +1,1 @@
-File cho staging + commit
+File cho rename/remove
